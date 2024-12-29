@@ -20,3 +20,8 @@
 [解釋的程式碼05-sqlite/03-Blog](https://github.com/ccc113a/html2denojs/tree/master/02-%E5%BE%8C%E7%AB%AF/05-sqlite/03-blog)
 
 [與chatgpt對話](https://chatgpt.com/share/676f563a-d9e8-800c-ae4a-1e0c90d23a70)
+
+### 期中作業
+[Midterm](https://github.com/hmzhen12/_ws/tree/master/midterm)
+我在 [youtube](https://youtu.be/S4uRtTb8U-U?si=5iJgvzCGVRgXvzYN)上關注這個教程
+chatgpt協助debug
